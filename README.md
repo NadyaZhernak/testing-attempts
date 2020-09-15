@@ -1,1 +1,1 @@
-# testing-attempts
+https://nadyazhernak.io/rsschool-cv/
