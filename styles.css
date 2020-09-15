@@ -1,0 +1,64 @@
+.photo {
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.header { 
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.list1 {
+    width: 380px;
+    margin: auto;
+    padding-left: 0;
+    font-style: italic;
+    list-style: circle;
+    font-size: 21px;
+    line-height: 1.5;
+}
+
+.list2 {
+    width: 25px;
+    margin: auto;
+    padding-left: 0;
+    font-style: italic;
+    list-style: circle;
+    font-size: 21px;
+    line-height: 1.5;
+}
+
+.link {
+    text-decoration: underline;
+    color: black;
+}
+
+.cv {
+    width: 850px;
+    margin: auto;
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: rgb(232, 253, 255);
+}
+
+.center {
+    text-align: center;
+    font-size: 21px;
+}
+
+.summary {
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 21px; 
+    line-height: 1.5;
+}
